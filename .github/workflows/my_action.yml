@@ -10,7 +10,4 @@ jobs:
     steps:
       - name: vishnupriya.mohan@straive.com  # Step name containing your email
         run: echo "Hello, world!"  # The command to execute in this step.  You can replace this with any other command.
-      - name: Another Step
-        run: |
-          echo "This is another step."
-          echo "You can run multi-line scripts here."
+
